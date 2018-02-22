@@ -1,4 +1,4 @@
-# Questions
+<!-- # Questions
 
 ## Question 1
 
@@ -15,7 +15,7 @@ $(document).click(function(clickEvent) {
 });
 
 console.log(2) // after callback set up, program stops work (for now)
-```
+``` -->
 
 ## Question 2
 
@@ -34,7 +34,7 @@ $.get("https://async-workshops-api.herokuapp.com/people", function(peopleRespons
 
 console.log(2) // after callback set up, program stops work (for now)
 ```
-
+<!--
 ## Question 3
 
 ```javascript
@@ -93,4 +93,4 @@ $.get("https://async-workshops-api.herokuapp.com/people", function(peopleRespons
 });
 
 console.log(2) // after callback set up, program stops work (for now)
-```
+``` -->
